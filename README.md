@@ -1,10 +1,3 @@
-# Password Generator
-Hacemos un Generador de Contraseñas con JavaScript
+Hola, he hecho un Generador de contrasenas utiilando javaScript, html y css
 
-**Tutorial**
-<br/><br/>
-https://youtu.be/08AmHQRdhKo
-<br/><br/>
-**Demo**
-
-![image](https://drive.google.com/uc?export=view&id=1889cvWj0B-zwVdIIdS40kxq6aotqTKiL)
+Hi, I made a Password generator using javascript, html and css
